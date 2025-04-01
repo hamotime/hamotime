@@ -4,8 +4,8 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/hamotime/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/hamotime/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/hamotime/ticket-lifecycle)
+  - [osTicket: Post-Installation Configuration](https://github.com/hamotime/osticket-post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/hamotime/osticket-ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/hamotime/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols using Wireshark](https://github.com/hamotime/azure-network-protocols)
